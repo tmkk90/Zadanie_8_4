@@ -1,0 +1,19 @@
+{
+  "name": "8_4",
+  "version": "1.0.0",
+  "description": "\"komentarze\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmkk90/Zadanie_8_4.git"
+  },
+  "author": "TK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmkk90/Zadanie_8_4/issues"
+  },
+  "homepage": "https://github.com/tmkk90/Zadanie_8_4#readme"
+}
